@@ -48,7 +48,7 @@ In summary, the Decision Tree model exhibits decent performance on the training 
 - Moro,S., Rita,P., and Cortez,P.. (2012). Bank Marketing. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306.
 
 <b>App Link:</b>
-- https://bankmarketingcampaign-prod.nn.r.appspot.com/
+- https://banking-loan2.wl.r.appspot.com/
 
 <b>Task Distribution:</b>
 - Data Cleaning - Luz Zapanta (C0879190)
